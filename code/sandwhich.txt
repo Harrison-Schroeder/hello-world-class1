@@ -1,0 +1,18 @@
+estimate: 40 lines
+
+grab first slice of bread from loaf
+place first slice on table
+grab additional slice of bread from loaf
+place additional slice on table next to first slice
+pick up jar of peanut butter with right hand
+use left hand to rotate lid of jar of peanut butter counterclockwise 3 rotations
+place lid of jar of peanut butter on table
+place jar of peanut butter on table
+pick up jar of jelly with right hand
+use left hand to rotate lid of jar of jelly counterclockwise 3 rotations
+place lid of jar of jelly on table
+place jar of jelly on table
+grab knife with right hand
+grab jar of peanut butter with left hand
+insert knife into jar of peanut butter
+scoop knife into jar until covered with peanut butter
