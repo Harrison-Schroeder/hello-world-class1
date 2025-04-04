@@ -2,17 +2,31 @@ estimate: 40 lines
 
 grab first slice of bread from loaf
 place first slice on table
-grab additional slice of bread from loaf
-place additional slice on table next to first slice
+grab second slice of bread from loaf
+place second slice on table next to first slice
 pick up jar of peanut butter with right hand
-use left hand to rotate lid of jar of peanut butter counterclockwise 3 rotations
+use left hand to rotate lid of jar of peanut butter counterclockwise 3 rotations or until lid has separated from jar
 place lid of jar of peanut butter on table
 place jar of peanut butter on table
 pick up jar of jelly with right hand
-use left hand to rotate lid of jar of jelly counterclockwise 3 rotations
-place lid of jar of jelly on table
+use left hand to rotate lid of jar of jelly counterclockwise 3 rotations or until lid has separated from jar
 place jar of jelly on table
-grab knife with right hand
+grab base of knife with right hand
 grab jar of peanut butter with left hand
-insert knife into jar of peanut butter
-scoop knife into jar until covered with peanut butter
+insert head of knife into jar of peanut butter, continuing to grab base with right hand
+scoop head of knife around jar until covered with peanut butter
+set down jar of peanut butter
+grab first slice of bread with left hand
+spread head of knife on the face of the first slice of bread until peanut butter has transferred from knife to slice of bread
+set down first slice of bread on table, peanut butter face upward
+grab jar of jelly with left hand
+insert head of knife into jar of jelly, continuing to grab base with right hand
+scoop head of knife around jar until covered with jelly
+set down jar of jelly
+grab second slice of bread from table with left hand
+spread head of knife on the face of the second slice of bread until jelly has transferred from knife to slice of bread
+set down second slice of bread on table, jelly face upward
+set down knife on the table
+pick up the first slice of bread by the edges, using both hands if necessary
+place first slice of bread, peanut butter face downwards, on top of the second slice of bread
+Consume sandwhich
